@@ -7,8 +7,6 @@ mobile developers want to provide native apps for iOS and Android
 IT people would like to build some custom tools for internal company use, and
 Customer are clamoring for new ways to access the data on your site.
 In short, it’s time to add a Web API.
-Test Environment
-You may use any platform for development, but note that per the Syllabus the test environment for projects in this course is the Ubuntu MATE VM for available from http://michael.shafae.com/resources.html.
 Flask Installation
 Follow the instructions in the Flask documentation to install Flask.
 Application Installation and Test
